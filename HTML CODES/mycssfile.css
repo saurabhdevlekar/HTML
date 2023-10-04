@@ -1,0 +1,24 @@
+/*body{
+    background-image: url("Home\ Page.jpg");
+}*/
+.abc{
+  background-color: cadetblue;
+  height: 100px;
+  width:150px;
+  color:azure;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-left:50px;
+  margin-top: 15px;
+}
+#xyz{
+  background-color: rgb(8, 225, 232);
+  height: 100px;
+  width:150px;
+  color:rgb(5, 5, 5);
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-left:50px;
+  margin-top: 15px;
+  font-size: larger;
+}  

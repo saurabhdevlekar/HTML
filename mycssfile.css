@@ -1,0 +1,34 @@
+body{
+    background-image: url("tree.jpg");
+    background-size: cover;
+}
+.abc{
+    background-color: aliceblue;
+    height: 100px;
+    width: 150px;
+    color: brown;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-left: 300px;
+    margin-top: 15px;
+}
+.abc{
+    background-color: aliceblue;
+    height: 100px;
+    width: 150px;
+    color: brown;
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-left: 300px;
+    margin-top: 15px;
+}
+#id{
+    background-color: rgb(8,225,232);
+    height: 180px;
+    width: 150px;
+    color: rgb(5, 5, 5);
+    padding-left: 20px;
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
